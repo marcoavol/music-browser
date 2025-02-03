@@ -1,0 +1,6 @@
+get_user_content:
+  description: "Retrieve user content such as artists, albums, tracks, and playlists."
+  fields:
+    content_type:
+      description: "The type of content to retrieve (e.g., artists, albums, tracks, playlists)."
+      example: "artists"

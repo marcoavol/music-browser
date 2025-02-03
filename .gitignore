@@ -1,0 +1,5 @@
+__pycache__/
+todo.mkd
+_example/
+.cursor/
+.venv/

@@ -1,0 +1,26 @@
+{
+  "config": {
+    "step": {
+      "user_id": {
+        "title": "Select a user",
+        "description": "Select a Home Assistant user for which you want to add a music provider.",
+        "data": {
+          "user_id": "Select a user:"
+        },
+        "data_description": {
+          "user_id": "Select a Home Assistant user for which you want to add a music provider."
+        }
+      },
+      "provider": {
+        "title": "Select a music provider",
+        "description": "Select a music provider you want to use for the selected Home Assistant user.",
+        "data": {
+          "provider": "Select a music provider:"
+        },
+        "data_description": {
+          "provider": "Select a music provider you want to use for the selected Home Assistant user."
+        }
+      }
+    }
+  }
+}
