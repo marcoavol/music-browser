@@ -1,7 +1,7 @@
 {
   "config": {
     "step": {
-      "user_id": {
+      "user": {
         "title": "Select a user",
         "description": "Select a Home Assistant user for which you want to add a music provider.",
         "data": {

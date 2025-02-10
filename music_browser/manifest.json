@@ -2,7 +2,7 @@
   "domain": "music_browser",
   "name": "Music Browser",
   "version": "0.1.0",
-  "documentation": "https://github.com/marcoavol/music_browser",
+  "documentation": "https://github.com/marcoavol/music-browser",
   "dependencies": ["application_credentials"],
   "codeowners": ["@marcoavol"],
   "requirements": ["tidalapi==0.8.3"],
